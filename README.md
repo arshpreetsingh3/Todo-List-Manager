@@ -1,9 +1,11 @@
 # Todo-List-Manager
 
 
-Project: Task and Notes Manager
+# Project: Task and Notes Manager
 
-Objectives
+
+
+# Objectives
 •	The website is a task manager
 •	Each task has following properties
 o	Title
@@ -14,7 +16,7 @@ o	Priority: High / Medium / Low
 •	Each task can have notes added to it as well
 o	One task can have multiple notes under it
 
-User Interface 
+ #  User Interface 
 •	The main page should show a list of tasks and a form to add new tasks
 •	Clicking on any task should expand and show the notes under it and show an input box to add more notes to it
 •	We should be able to sort the list of tasks by 
@@ -32,7 +34,7 @@ o	Due date
 o	Priority
 o	Completed/Incomplete state (using a checkbox)
 
-Technical Implementation 
+ #  Technical Implementation 
 •	Backend should be in NodeJS
 •	Task and notes data should be saved in a database (you can use SQLITE with Sequelize) 
 •	Frontend will communicate with backend via JSON API 
@@ -40,7 +42,7 @@ Technical Implementation
 •	Using common CSS framework like Bootstrap is allowed on frontend
 •	Using common CSS library like jQuery allowed on frontend
 
-API Guide 
+#  API Guide 
 Some hints as to how the API should behave 
 •	GET        /todos – list all todos in array
 •	POST     /todos – add a new todo
