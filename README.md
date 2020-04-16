@@ -1,4 +1,3 @@
-# Todo-List-Manager
 
 
 # Project: Task and Notes Manager
